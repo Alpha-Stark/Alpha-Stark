@@ -1,8 +1,5 @@
-<div align="center">
-  <a href="">
-    <img src="https://sigitek.com/wp-content/uploads/2021/11/software-development.png" alt="MasterHead" style="height:400px; width:500px;">
-  </a>
-</div>
+
+[![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
 <h1 align="center">Hi 👋, I'm Mann Savani</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer specializing in mostly JS. My journey into the world of software development began with a passion for problem-solving, which has driven me to explore and excel in this dynamic field.</h3>
@@ -112,11 +109,7 @@
         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphasmashers&show_icons=true&locale=en&layout=compact" alt="alphasmashers" /></p>
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphasmashers&show_icons=true&locale=en" alt="alphasmashers" /></p>
   </div>
-  <div style="margin-top: 20px;">
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphasmashers&" alt="alphasmashers" /></p>
+  <p dir="auto"><br></p> 
+  <div style="margin-top: 20px;" align="left">
+        <p><img align="center" style="margin-left: 50px;" src="https://github-readme-streak-stats.herokuapp.com/?user=alphasmashers&" alt="alphasmashers" /></p>
   </div>
-
-
-
-
-
