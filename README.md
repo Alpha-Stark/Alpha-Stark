@@ -18,7 +18,25 @@
 
 - 📫 How to reach me **mannsavani2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+
+<hr>
+<h2 dir="auto"><a id="user-content-----about-me" class="anchor" aria-hidden="true" href="#----about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><themed-picture data-catalyst-inline="true"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="50px">  </picture></themed-picture> About me</h2>
+<p dir="auto"></p>
+<ul dir="auto">
+<li>
+  <g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji> I am an upcoming Fall'24, MSCS <code>student</code> at Northeastern University.
+</li>
+<li>
+  <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I am an Event Lead of Google developer Student Club -PPSU Community.
+</li>
+<!-- <li><g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I love open-source contribution.</li> -->
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Problem Solver at <a href="https://leetcode.com/alpha_thunder/"><code>Leetcode</code></a>.</li>
+<li><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🤩</g-emoji>  Forever, a learner...</code>.</li>
+
+
+
+<h2 dir="auto"><a id="user-content----connect-with-me" class="anchor" aria-hidden="true" href="#---connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><themed-picture data-catalyst-inline="true"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture></themed-picture>
 <p align="left">
   <a href="https://linkedin.com/in/mann-savani" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mann-savani" height="30" width="40" />
@@ -81,32 +99,23 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     </a>    
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
 </p>
 
-<div align="center" style="margin-top: 20px;">
-    <div>
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphasmashers&show_icons=true&locale=en&layout=compact" alt="alphasmashers" /></p>
-        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alphasmashers&show_icons=true&locale=en" alt="alphasmashers" /></p>
-    </div>
-    <div style="margin-top: 20px;">
-        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=alphasmashers&" alt="alphasmashers" /></p>
-    </div>
-</div>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+  <div>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphasmashers&show_icons=true&locale=en&layout=compact" alt="alphasmashers" /></p>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphasmashers&show_icons=true&locale=en" alt="alphasmashers" /></p>
+  </div>
+  <div style="margin-top: 20px;">
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphasmashers&" alt="alphasmashers" /></p>
+  </div>
+
 
 
 
