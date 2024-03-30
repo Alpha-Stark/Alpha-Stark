@@ -1,5 +1,6 @@
-
 [![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
+
+
 
 <h1 align="center">Hi 👋, I'm Mann Savani</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer specializing in mostly JS. My journey into the world of software development began with a passion for problem-solving, which has driven me to explore and excel in this dynamic field.</h3>
@@ -39,10 +40,12 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mann-savani" height="30" width="40" />
   </a>
   <a href="https://twitter.com/mannsavani2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mannsavani2" height="30" width="40" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_x_rounded_icon_256078.png" alt="mannsavani2" height="45" width="60" />
   </a>
 </p>
 
+
+  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -103,6 +106,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
     </a>
 </p>
+
+
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
   <div>
