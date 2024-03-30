@@ -15,4 +15,4 @@
             user_name: AlphaSmashers
             # Text on contribution graph 
             text: M A N N
-       - uses: AlphaSmashers/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
