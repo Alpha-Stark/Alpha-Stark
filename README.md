@@ -121,10 +121,10 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
   <div>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphasmashers&show_icons=true&locale=en&layout=compact" alt="alphasmashers" /></p>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphasmashers&show_icons=true&locale=en" alt="alphasmashers" /></p>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpha-stark&show_icons=true&locale=en&layout=compact" alt="alpha-stark" /></p>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpha-stark&show_icons=true&locale=en" alt="alpha-stark" /></p>
   </div>
   <p dir="auto"><br></p> 
   <div style="margin-top: 20px;" align="left">
-        <p><img align="center" style="margin-left: 50px;" src="https://github-readme-streak-stats.herokuapp.com/?user=alphasmashers&" alt="alphasmashers" /></p>
+        <p><img align="center" style="margin-left: 50px;" src="https://github-readme-streak-stats.herokuapp.com/?user=alpha-stark&" alt="alpha-stark" /></p>
   </div>
