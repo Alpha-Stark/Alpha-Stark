@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mann Savani</h1>
-<h3 align="center">I'm a passionate Full-Stack Web Developer specializing in mostly JS. My journey into the world of software development began with a passion for problem-solving, which has driven me to explore and excel in this dynamic field.</h3>
+<h3 align="center">I'm a passionate Full-Stack Web Developer specializing in mostly JavaScript, though my expertise extends beyond its confines. My journey into the world of software development began with a passion for problem-solving, which has driven me to explore and excel in this dynamic field.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphasmashers&label=Profile%20views&color=0e75b6&style=flat" alt="alphasmashers" /> </p>
