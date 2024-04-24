@@ -10,7 +10,7 @@
 
 <!---   - 🔭 I’m currently working on [Evently](https://evently-alphasmashers.vercel.app/) --->
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **MERN, NextJs**
 
