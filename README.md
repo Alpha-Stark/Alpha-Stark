@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphasmashers&label=Profile%20views&color=0e75b6&style=flat" alt="alphasmashers" /> </p>
 
 <!-- - 🔭 I’m currently working on [Evently](https://evently-alphasmashers.vercel.app/) -->
-- 🔭 I’m currently mastering <code>DSA</code>.
+- 🔭 I’m currently mastering <code>Data Structures & Algorithms</code>.
 
 - 🌱 I’m currently learning **ML**
 
