@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mannsavani2002@gmail.com**
 
-- My Portfolio: [Click Here](https://mannsavani.vercel.app/)
+- My Portfolio: <a href="https://mannsavani.vercel.app/" target="_blank">Click Here</a>
 
 
 <hr>
