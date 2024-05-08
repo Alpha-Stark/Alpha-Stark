@@ -30,7 +30,7 @@
   <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> I am an Event Lead of Google developer Student Club -PPSU Community.
 </li>
 <!-- <li><g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I love open-source contribution.</li> -->
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Problem Solver at <a href="https://leetcode.com/alpha_thunder/"><code>Leetcode</code></a>.</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Problem Solver at <a href="https://leetcode.com/u/AlphaStark/"><code>Leetcode</code></a>.</li>
 <li><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🤩</g-emoji>  Forever, a learner...</code>.</li>
 
 
