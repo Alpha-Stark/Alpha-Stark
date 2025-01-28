@@ -41,7 +41,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mann-savani" height="30" width="40" />
   </a>
   <a href="https://twitter.com/mannsavani2" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_x_rounded_icon_256078.png" alt="mannsavani2" height="45" width="60" />
+    <img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebe1d31f50e161e4c825a_X-logo-transparent-white-twitter.png" alt="mannsavani2" height="30" width="30" />
   </a>
 </p>
 
